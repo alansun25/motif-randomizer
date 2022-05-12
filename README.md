@@ -6,5 +6,4 @@ increase or decrease the frequency of the motif. Characterstics of the original 
 the randomized graph are then analyzed, such as average clustering coefficient, 
 assortativity coefficient, average shortest path length, etc.
 
-This Python script was my final project for the course Structure and Dynamics of Complex
-Networks at AIT-Budapest during the spring 2022 semester.
+Final project for the course Structure and Dynamics of Complex Networks at AIT-Budapest (Spring 2022).
