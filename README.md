@@ -2,7 +2,7 @@
 
 This Python script takes an input network and randomizes it by increasing or decreasing 
 the frequency of a partiular triadic motif, while preserving degree sequence. Users can
-input a network as a text file, select a motif of interest, and specify whether to
+input a network as a text file (edgelist format), select a motif of interest, and specify whether to
 increase or decrease the frequency of the motif.
 
 A <ins>**triadic motif**</ins> is a small, connected, 3-node subgraph in which the configuration of the links is predefined (2 possible triadic motifs in undirected networks; 13 possible in directed networks).
